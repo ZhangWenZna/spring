@@ -1,0 +1,6 @@
+# Project exclude paths
+/mybatis-dome/target/
+/spring_03/target/
+/spring_04/target/
+/spring_05/target/
+/target/
